@@ -1,0 +1,16 @@
+{
+  "name": "dia3",
+  "version": "1.0.0",
+  "main": "e15.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "asciify-image": "^0.1.10",
+    "node-color-log": "^12.0.1"
+  }
+}
